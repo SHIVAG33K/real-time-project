@@ -9,8 +9,7 @@ const port = 4000;
 
 app.use(bodyParser.urlencoded({extended:true}));
 
-const API_KEY = 'AIzaSyDk83iUXuXk3zEzQWNQsUIb6vNJTTDxwcE';
-const CX = '7627f2f27945040a0';
+
 var details = {
   "username@gmail.com" : "password",
   "shiva@gmail.com" : "teja"
